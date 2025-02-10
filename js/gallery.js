@@ -1,4 +1,4 @@
-const NASA_API_KEY = "0g1C1ZIEcn4LzCvorcJIV3kwGACquTgYrbZIBrT2"; // Replace with your NASA API key
+const NASA_API_KEY = "0g1C1ZIEcn4LzCvorcJIV3kwGACquTgYrbZIBrT2"; 
 const ITEMS_PER_PAGE = 12;
 
 async function fetchSpaceImages() {
