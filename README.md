@@ -8,7 +8,7 @@ This project is an interactive web-based application that lets users explore a 3
 
 ## Features
 
-- **3D Solar System Animation**: The solar system animation is built with Three.js to create an interactive experience where the planets revolve around the Sun in a realistic 3D simulation.
+- **3D Solar System Animation**: (Still under progress)The solar system animation is built with Three.js to create an interactive experience where the planets revolve around the Sun in a realistic 3D simulation.
 - **Astronomical Image Gallery**: The gallery showcases high-quality astronomical images fetched dynamically from NASA's API, providing an immersive view of space exploration.
 - **Interactive Web Interface**: The landing page and other sections are designed for a user-friendly experience.
 
@@ -22,7 +22,7 @@ This project is an interactive web-based application that lets users explore a 3
 
 ## Features Breakdown
 
-### 1. **Solar System Animation (3D)**
+### 1. **Solar System Animation (3D)** (under pls)
    - **Three.js**: The solar system animation is created using Three.js, a powerful library for 3D graphics. It allows users to see the planets revolving around the Sun with realistic physics and animation effects.
    - **Planetary Movement**: Planets rotate on their respective orbits and spin around their axes, mimicking real-life solar system behavior.
    - **Interactive Controls**: The animation is interactive, allowing users to rotate the scene and zoom in/out using mouse controls.
